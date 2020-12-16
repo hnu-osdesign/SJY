@@ -9,5 +9,5 @@ UART 16550 IP对从外围设备或调制解调器接收到的数据字符执行�
 可配置停止位:1位，1.5位或2位传输操作
 发送和接收操作的偶数奇偶校验、奇数奇偶校验或粘贴奇偶校验配置
 可编程的除数锁存器，用于自定义波特率
-![Image_text](https://github.com/hnu-osdesign/SJY/20150107143759_39221.jpg)
+![Image_text](20150107143759_39221.jpg)
 ![Image_text](https://github.com/hnu-osdesign/SJY/20150107143742_19581.jpg)
